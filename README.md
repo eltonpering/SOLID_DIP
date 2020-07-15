@@ -1,4 +1,4 @@
-# SOLID_DIP
+# SOLID_DIP - Dependency Inversion Principle
 SOLID CONCEPTS
 
 Módulos de alto nível não devem depender de módulos de baixo nível. Ambos devem depender de uma abstração.
